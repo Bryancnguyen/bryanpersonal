@@ -1,0 +1,26 @@
+{
+  "name": "bryanpersonal",
+  "version": "1.0.0",
+  "description": "bryans personal",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bryancnguyen/bryanpersonal.git"
+  },
+  "author": "Bryan Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bryancnguyen/bryanpersonal/issues"
+  },
+  "homepage": "https://github.com/Bryancnguyen/bryanpersonal#readme",
+  "devDependencies": {
+    "body-parser": "^1.15.1",
+    "browser-sync": "^2.12.10",
+    "express": "^4.13.4",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.0.7"
+  }
+}
